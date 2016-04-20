@@ -1,6 +1,9 @@
 .jumbotron{
   background-color: #D5EBF2;
 }
+*{
+  .background-color: red;
+}
 
 
 /*this is the footer stuff*/
